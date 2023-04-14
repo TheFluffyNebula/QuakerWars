@@ -57,6 +57,9 @@ li a {
 li a:hover {
 background-color: #111;
 }
+li a#EE{
+    color: black;
+}
 .dropdown-content {
     display: none;
     position: absolute;
