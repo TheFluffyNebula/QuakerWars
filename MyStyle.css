@@ -60,6 +60,9 @@ background-color: #111;
 li a#EE{
     color: black;
 }
+li a#EE:hover{
+    color: white;
+}
 .dropdown-content {
     display: none;
     position: absolute;
